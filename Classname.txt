@@ -1,0 +1,25 @@
+AMMO - ПАТРОНЫ
+
+Helzi_WP1_Pistol1_Ammo
+Helzi_WP1_Rifle1_Ammo
+Helzi_WP1_Rifle2_Ammo
+Helzi_WP1_Rifle3_Ammo
+
+WEAPON - ОРУЖИЯ
+
+Helzi_WP1_Pistol1_Weapon
+Helzi_WP1_Rifle1_Weapon
+Helzi_WP1_Rifle2_Weapon
+Helzi_WP1_Rifle3_Weapon
+
+MAGAZINE - МАГАЗИНЫ
+
+Helzi_WP1_Pistol1_Magazine
+Helzi_WP1_Rifle1_Magazine
+Helzi_WP1_Rifle2_Magazine
+Helzi_WP1_Rifle3_Magazine
+
+Helzi_WP1_Pistol1_Magazine_Admin
+Helzi_WP1_Rifle1_Magazine_Admin
+Helzi_WP1_Rifle2_Magazine_Admin
+Helzi_WP1_Rifle3_Magazine_Admin
